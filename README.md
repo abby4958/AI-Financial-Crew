@@ -1,4 +1,4 @@
-# AI financial Analyst using CrewAI and Local LLM
+# AI Investment Insight Team: Revolutionizing Financial Analysis 
 
 
 # Steps
